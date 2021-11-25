@@ -4,7 +4,7 @@ ctx = canvas.getContext("2d");
 greencar_width = 75;
 greencar_height = 100;
 greencar_x = 5;
-greencar_y = 225;
+greencar_y = 275;
 background_image = "parkingLot.jpg";
 greencar_image = "car2.png";
 
